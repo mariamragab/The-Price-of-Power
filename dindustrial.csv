@@ -1,24 +1,24 @@
 ﻿Province,Entity,Demand,Total,Energy,Variable,Fixed
 "British 
-Columbia",Zone 1," 12,220 "," 42,228 "," 30,000 ", -   , 8 
-Alberta,Enmax," 5,199 "," 52,556 "," 28,167 "," 18,447 ", 743 
-Alberta,Epcor," 16,009 "," 52,019 "," 22,534 "," 12,466 "," 1,010 "
-Alberta,ATCO," 9,857 "," 56,052 "," 28,167 "," 17,912 ", 115 
-Alberta,Fortis Alberta," 13,890 "," 47,673 "," 28,167 "," 5,616 ", -   
-Saskatchewan,Urban," 16,553 "," 57,216 "," 39,092 "," 1,513 ", 58 
-Saskatchewan,Rural," 16,553 "," 55,212 "," 37,081 "," 1,513 ", 65 
-Manitoba,All," 11,163 "," 32,449 "," 21,255 ", -   , 31 
-Ontario,Toronto Hydro," 12,120 "," 71,255 "," 55,836 "," 2,290 "," 1,008 "
-Ontario,Hydro Ottawa," 9,067 "," 67,454 "," 55,836 "," 2,350 ", 200 
+Columbia",Zone 1," 12,220 "," 42,228 ",30,000, -   , 8 
+Alberta,Enmax," 5,199 "," 52,556 ",28,167," 18,447 ", 743 
+Alberta,Epcor," 16,009 "," 52,019 ",22,534," 12,466 "," 1,010 "
+Alberta,ATCO," 9,857 "," 56,052 ",28,167," 17,912 ", 115 
+Alberta,Fortis Alberta," 13,890 "," 47,673 ",28,167," 5,616 ", -   
+Saskatchewan,Urban," 16,553 ",57,216,39,092," 1,513 ", 58 
+Saskatchewan,Rural," 16,553 ",55,212,37,081," 1,513 ", 65 
+Manitoba,All," 11,163 "," 32,449 ",21,255, -   , 31 
+Ontario,Toronto Hydro," 12,120 "," 71,255 ",55,836," 2,290 "," 1,008 "
+Ontario,Hydro Ottawa," 9,067 "," 67,454 ",55,836," 2,350 ", 200 
 Ontario,"Hydro One 
-(Urban Density)"," 14,437 "," 68,972 "," 55,836 ","-1,400 ", 99 
+(Urban Density)"," 14,437 "," 68,972 ",55,836,"-1,400 ", 99 
 Ontario,"Hydro One 
-(Non-Urban Density)"," 21,061 "," 75,612 "," 55,836 ","-1,400 ", 115 
-Quebec,All," 14,580 "," 35,960 "," 21,380 ", -   , -   
-New Brunswick,All," 14,200 "," 40,450 "," 26,250 ", -   , -   
+(Non-Urban Density)"," 21,061 "," 75,612 ",55,836,"-1,400 ", 115 
+Quebec,All," 14,580 "," 35,960 ",21,380, -   , -   
+New Brunswick,All," 14,200 "," 40,450 ",26,250, -   , -   
 "Newfoundland 
-& Labrador",Newfoundland," 10,900 "," 30,065 "," 17,605 "," 1,560 ", -   
+& Labrador",Newfoundland," 10,900 "," 30,065 ",17,605," 1,560 ", -   
 "Newfoundland 
-& Labrador",Labrador," 1,610 "," 13,455 "," 11,845 ", -   , -   
+& Labrador",Labrador," 1,610 "," 13,455 ",11,845, -   , -   
 Nova Scotia,"Nova Scotia 
-Power"," 13,890 "," 54,110 "," 40,220 ", -   , -   
+Power"," 13,890 "," 54,110 ",40,220, -   , -   
