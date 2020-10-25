@@ -1,0 +1,8 @@
+﻿Province,Entity,Year,Total,Energy,Global Adjustment Rebate,Variable,Fixed,Demand
+Alberta,ATCO,2014, 154 , 35 ,, 7 , 30 , 83 
+Alberta,,2019, 186 , 29 ,, 14 , 37 , 105 
+Alberta,Fortis Alberta,2014, 176 , 35 ,, 11 , 9 , 122 
+Alberta,,2019, 206 , 29 ,, 24 , 12 , 141 
+Ontario,"Hydro One 
+(Non-Urban Density)",2014, 115 , 46 ,, 28 , 41 ,
+Ontario,,2019, 88 , 41 ,-22 , 35 , 34 ,

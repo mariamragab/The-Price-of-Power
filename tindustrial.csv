@@ -1,0 +1,17 @@
+Province,Entity,Demand,Total,Energy,Variable,Fixed
+"British 
+Columbia",All,"48,317","175,754","127,438", -   , -   
+Alberta,Enmax,"78,662","232,971","140,837","12,748",725
+Alberta,Epcor,"78,662","232,358","140,837","12,575",285
+Alberta,ATCO,"78,732","232,144","140,837","12,575", -   
+Alberta,Fortis Alberta,"78,662","226,121","140,837","5,325","1,297"
+Saskatchewan,All,"46,022","219,966","152,725","13,603","7,616"
+Manitoba,All,"37,389","123,464","86,075", -   , -   
+Ontario,Hydro One,"37,601","316,782","279,181", -   , -   
+Quebec,All,"64,500","146,500","82,000", -   , -   
+New Brunswick,All,"61,625","192,875","131,250", -   , -   
+"Newfoundland 
+& Labrador",Newfoundland,"49,500","145,325","88,025","7,800", -   
+"Newfoundland 
+& Labrador",Labrador,"4,717","63,942","59,225", -   , -   
+Nova Scotia,Nova Scotia Power,"47,583","455,108","407,525", -   , -   

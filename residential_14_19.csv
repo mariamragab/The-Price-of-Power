@@ -1,0 +1,22 @@
+﻿Province,Entity,Year,Total,Energy,Global Adjustment Rebate,Variable,Fixed
+Alberta,Enmax,2014, 132 , 69 ,, 40 , 23 
+Alberta,,2019, 154 , 61 ,, 72 , 21 
+Alberta,Epcor,2014, 133 , 70 ,, 42 , 21 
+Alberta,,2019, 145 , 68 ,, 52 , 25 
+Alberta,ATCO,2014, 228 , 71 ,, 109 , 48 
+Alberta,,2019, 252 , 59 ,, 137 , 56 
+Alberta,Fortis Alberta,2014, 133 , 71 ,, 41 , 21 
+Alberta,,2019, 154 , 59 ,, 71 , 25 
+Ontario,Toronto Hydro,2014, 148 , 92 ,, 34 , 21 
+Ontario,,2019, 104 , 82 ,-44 , 26 , 40 
+Ontario,Hydro Ottawa,2014, 141 , 92 ,, 38 , 11 
+Ontario,,2019, 84 , 82 ,-44 , 21 , 25 
+Ontario,"Hydro One 
+(Urban Density)",2014, 153 , 92 ,, 43 , 18 
+Ontario,,2019, 89 , 82 ,-44 , 20 , 31 
+Ontario,"Hydro One 
+(Medium Density)",2014, 169 , 92 ,, 52 , 25 
+Ontario,,2019, 114 , 82 ,-44 , 34 , 41 
+Ontario,"Hydro One 
+(Low Density)",2014, 211 , 92 ,, 56 , 63 
+,,2019, 182 , 82 ,-44 , 47 , 97 

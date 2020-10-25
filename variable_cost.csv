@@ -1,0 +1,33 @@
+﻿Province,Entity,Residential,Commercial (Small),Commercial (Large),Industrial (Distribution connected),Industrial (Transmission connected)
+"British 
+Columbia",All areas, 10.98 , 12.53 , 9.68 , 6.00 , 5.10 
+Alberta,Enmax, 13.32 , 10.68 , 9.32 , 9.32 , 6.14 
+Alberta,Epcor, 12.03 , 14.63 , 8.22 , 7.00 , 6.14 
+Alberta,ATCO, 19.60 , 7.36 , 6.85 , 9.22 , 6.14 
+Alberta,Fortis Alberta, 12.99 , 8.40 , 6.76 , 6.76 , 5.85 
+Saskatchewan,Urban, 14.54 , 13.97 , 9.42 , 8.12 ,
+Saskatchewan,Rural, 14.54 , 14.70 , 9.03 , 7.72 ,
+Saskatchewan,All areas,,,,, 6.65 
+Manitoba,All areas, 8.53 , 8.90 , 5.54 , 4.25 , 3.44 
+Ontario,Toronto Hydro, 6.35 , 9.11 , 13.05 , 11.63 ,
+Ontario,Hydro Ottawa, 5.92 , 7.77 , 13.06 , 11.64 ,
+Ontario,"Hydro One 
+(Urban Density)", 5.77 , 7.66 , 16.45 , 10.89 ,
+Ontario,"Hydro One 
+(Medium Density)", 7.23 ,,,,
+Ontario,"Hydro One 
+(Low Density)", 8.50 ,,,,
+Ontario,"Hydro One 
+(Non-Urban Density)",, 10.81 , 19.60 , 10.89 ,
+Ontario,Hydro One,,,,, 11.17 
+Quebec,All areas, 6.08 , 9.90 , 5.03 , 4.28 , 3.28 
+New Brunswick,Urban, 10.91 ,,,,
+New Brunswick,Rural, 10.91 ,,,,
+New Brunswick,All areas,, 13.12 , 9.69 , 5.25 , 5.25 
+"Newfoundland 
+& Labrador",Newfoundland, 11.39 , 10.43 , 9.61 , 3.83 , 3.83 
+"Newfoundland 
+& Labrador",Labrador, 3.26 , 2.42 , 2.09 , 2.37 , 2.37 
+"Nova 
+Scotia","Nova Scotia 
+Power", 15.60 , 8.86 , 8.75 , 8.04 , 16.30 

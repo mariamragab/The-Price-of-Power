@@ -1,0 +1,24 @@
+﻿Province,Entity,Demand,Total,Energy,Global Adjustment Rebate,Variable,Fixed
+"British 
+Columbia",Zone 1, -   , 637 , 627 , NA , -   , 11 
+Alberta,Enmax, 122 , 885 , 303 , NA , 231 , 229 
+Alberta,Epcor,, 747 , 340 , NA , 391 , 16 
+Alberta,ATCO, 282 , 679 , 296 , NA , 72 , 29 
+Alberta,Fortis Alberta, 331 , 762 , 296 , NA , 124 , 12 
+Saskatchewan,Urban, -   , 730 , 683 , NA , 15 , 31 
+Saskatchewan,Rural, -   , 777 , 720 , NA , 15 , 41 
+Manitoba,All, -   , 466 , 445 , NA , -   , 21 
+Ontario,Toronto Hydro,, 495 , 412 ,-222 , 266 , 39 
+Ontario,Hydro Ottawa,, 409 , 412 ,-222 , 199 , 20 
+Ontario,"Hydro One 
+(Urban Density)",, 409 , 412 ,-222 , 193 , 26 
+Ontario,"Hydro One 
+(Non-Urban Density)",, 575 , 412 ,-222 , 351 , 34 
+Quebec,All, -   , 507 , 495 , NA , -   , 12 
+New Brunswick,All, -   , 679 , 656 , NA , -   , 23 
+"Newfoundland 
+& Labrador",Newfoundland, 154 , 697 , 522 , NA , -   , 21 
+"Newfoundland 
+& Labrador",Labrador, 35 , 166 , 121 , NA , -   , 10 
+Nova Scotia,"Nova Scotia 
+Power", 210 , 653 , 443 , NA , -   , -   
