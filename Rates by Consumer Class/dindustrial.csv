@@ -1,24 +1,24 @@
 ﻿Province,Entity,Demand,Total,Energy,Variable,Fixed
 "British 
-Columbia",Zone 1,12220,42228,30000, - ,8
-Alberta,Enmax,5199,52556,28167,18447,743
-Alberta,Epcor,16009,52019,22534,12466,1010
-Alberta,ATCO,9857,56052,28167,17912,115
-Alberta,Fortis Alberta,13890,47673,28167,5616, -   
-Saskatchewan,Urban,16553,57216,39092,1513,58
-Saskatchewan,Rural,16553,55212,37081,1513,65
-Manitoba,All,11163,32449,21255, -   ,31
-Ontario,Toronto Hydro,12120,71255,55836,2290,1008
-Ontario,Hydro Ottawa,9067,67454,55836,2350,200
+Columbia",Zone 1,12220 ,42228 ,30000 ,0 ,8 
+Alberta,Enmax,5199 ,52556 ,28167 ,18447 ,743 
+Alberta,Epcor,16009 ,52019 ,22534 ,12466 ,1010 
+Alberta,ATCO,9857 ,56052 ,28167 ,17912 ,115 
+Alberta,Fortis Alberta,13890 ,47673 ,28167 ,5616 ,0 
+Saskatchewan,Urban,16553 ,57216 ,39092 ,1513 ,58 
+Saskatchewan,Rural,16553 ,55212 ,37081 ,1513 ,65 
+Manitoba,All,11163 ,32449 ,21255 ,0 ,31 
+Ontario,Toronto Hydro,12120 ,71255 ,55836 ,2290 ,1008 
+Ontario,Hydro Ottawa,9067 ,67454 ,55836 ,2350 ,200 
 Ontario,"Hydro One 
-(Urban Density)",14437,68972,55836,-1400,99
+(Urban Density)",14437 ,68972 ,55836 ,(1400),99 
 Ontario,"Hydro One 
-(Non-Urban Density)",21061,75612,55836,-1400,115
-Quebec,All,14580,35960,21380, -   , -   
-New Brunswick,All,14200,40450,26250, -   , -   
+(Non-Urban Density)",21061 ,75612 ,55836 ,(1400),115 
+Quebec,All,14580 ,35960 ,21380 ,0 ,0 
+New Brunswick,All,14200 ,40450 ,26250 ,0 ,0 
 "Newfoundland 
-& Labrador",Newfoundland,10900,30065,17605,1560, -   
+& Labrador",Newfoundland,10900 ,30065 ,17605 ,1560 ,0 
 "Newfoundland 
-& Labrador",Labrador,1610,13455,11845, -   , -   
+& Labrador",Labrador,1610 ,13455 ,11845 ,0 ,0 
 Nova Scotia,"Nova Scotia 
-Power",13890,54110,40220, -   , -   
+Power",13890 ,54110 ,40220 ,0 ,0 

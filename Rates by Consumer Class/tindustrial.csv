@@ -1,17 +1,17 @@
 Province,Entity,Demand,Total,Energy,Variable,Fixed
 "British 
-Columbia",All,48,317,175,754,127,438, -   , -   
-Alberta,Enmax,78,662,232,971,140,837,12,748,725
-Alberta,Epcor,78,662,232,358,140,837,12,575,285
-Alberta,ATCO,78,732,232,144,140,837,12,575, -   
-Alberta,Fortis Alberta,78,662,226,121,140,837,5,325,1,297
-Saskatchewan,All,46,022,219,966,152,725,13,603,7,616
-Manitoba,All,37,389,123,464,86,075, -   , -   
-Ontario,Hydro One,37,601,316,782,279,181, -   , -   
-Quebec,All,64,500,146,500,82,000, -   , -   
-New Brunswick,All,61,625,192,875,131,250, -   , -   
+Columbia",All,48317 ,175754 ,127438 ,0 ,0 
+Alberta,Enmax,78662 ,232971 ,140837 ,12748 ,725 
+Alberta,Epcor,78662 ,232358 ,140837 ,12575 ,285 
+Alberta,ATCO,78732 ,232144 ,140837 ,12575 ,0 
+Alberta,Fortis Alberta,78662 ,226121 ,140837 ,5325 ,1297 
+Saskatchewan,All,46022 ,219966 ,152725 ,13603 ,7616 
+Manitoba,All,37389 ,123464 ,86075 ,0 ,0 
+Ontario,Hydro One,37601 ,316782 ,279181 ,,
+Quebec,All,64500 ,146500 ,82000 ,0 ,0 
+New Brunswick,All,61625 ,192875 ,131250 ,0 ,0 
 "Newfoundland 
-& Labrador",Newfoundland,49,500,145,325,88,025,7,800, -   
+& Labrador",Newfoundland,49500 ,145325 ,88025 ,7800 ,0 
 "Newfoundland 
-& Labrador",Labrador,4,717,63,942,59,225, -   , -   
-Nova Scotia,Nova Scotia Power,47,583,455,108,407,525, -   , -   
+& Labrador",Labrador,4717 ,63942 ,59225 ,0 ,0 
+Nova Scotia,Nova Scotia Power,47583 ,455108 ,407525 ,0 ,0 
