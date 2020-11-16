@@ -1,11 +1,10 @@
 Province,Entity,Demand,Total,Energy,Global Adjustment Rebate,Variable,Fixed
-"British Columbia",Zone 1, -   , 74 , 63 , NA , -   , 11 
+British Columbia,Zone 1, -   , 74 , 63 , NA , -   , 11 
 Alberta,ATCO, 105 , 186 , 29 , NA , 14 , 37 
 Alberta,Fortis Alberta, 141 , 206 , 29 , NA , 24 , 12 
 Saskatchewan,All, -   , 101 , 63 , NA , 3 , 35 
 Manitoba,All, -   , 51 , 43 , NA , -   , 8 
-Ontario,"Hydro One 
-(Non-Urban Density)", -   , 88 , 41 ,-22 , 35 , 34 
+Ontario,"Hydro One (Non-Urban Density)", -   , 88 , 41 ,-22 , 35 , 34 
 Quebec,All, -   , 62 , 50 , NA , -   , 12 
 New Brunswick,Rural, -   , 79 , 55 , NA , -   , 24 
 "Newfoundland & Labrador",Newfoundland, 77 , 155 , 56 , NA , -   , 21 
