@@ -10,15 +10,10 @@ Saskatchewan,Rural,16553 ,55212 ,37081 ,1513 ,65
 Manitoba,All,11163 ,32449 ,21255 ,0 ,31 
 Ontario,Toronto Hydro,12120 ,71255 ,55836 ,2290 ,1008 
 Ontario,Hydro Ottawa,9067 ,67454 ,55836 ,2350 ,200 
-Ontario,"Hydro One 
-(Urban Density)",14437 ,68972 ,55836 ,(1400),99 
-Ontario,"Hydro One 
-(Non-Urban Density)",21061 ,75612 ,55836 ,(1400),115 
+Ontario,"Hydro One (Urban Density)",14437 ,68972 ,55836 ,(1400),99 
+Ontario,"Hydro One (Non-Urban Density)",21061 ,75612 ,55836 ,(1400),115 
 Quebec,All,14580 ,35960 ,21380 ,0 ,0 
 New Brunswick,All,14200 ,40450 ,26250 ,0 ,0 
-"Newfoundland 
-& Labrador",Newfoundland,10900 ,30065 ,17605 ,1560 ,0 
-"Newfoundland 
-& Labrador",Labrador,1610 ,13455 ,11845 ,0 ,0 
-Nova Scotia,"Nova Scotia 
-Power",13890 ,54110 ,40220 ,0 ,0 
+"Newfoundland & Labrador",Newfoundland,10900 ,30065 ,17605 ,1560 ,0 
+"Newfoundland & Labrador",Labrador,1610 ,13455 ,11845 ,0 ,0 
+Nova Scotia,"Nova Scotia Power",13890 ,54110 ,40220 ,0 ,0 
